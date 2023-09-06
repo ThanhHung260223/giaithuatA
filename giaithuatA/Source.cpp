@@ -1,0 +1,9 @@
+class MyClass
+{
+public:
+	
+
+private:
+
+};
+
